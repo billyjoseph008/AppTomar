@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570790707510",
+    "project_id": "apptomar-3d1a5",
+    "storage_bucket": "apptomar-3d1a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570790707510:android:017554fe30f39b6f52b397",
+        "android_client_info": {
+          "package_name": "com.brainstormideas.apptomar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570790707510-va3b1r5rd3nrrs7afm8itm19tvnrn9io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYP5uZqqI9-SU4N_N5aua3C5s-2Kcqwz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570790707510-va3b1r5rd3nrrs7afm8itm19tvnrn9io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

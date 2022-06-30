@@ -3,7 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_main.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/drawable/splash_screen.xml" value="0.175" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/drawable/splashs_screen.xml" value="0.1405" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_categories_screen.xml" value="0.33" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_confirmation_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_login_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_menu_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_payment_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_profile_screen.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_register_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_reset_password_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_resgister_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_shopping_cart.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_shopping_cart_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_splash_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_store_map_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1405" />
       </map>
     </option>
   </component>
