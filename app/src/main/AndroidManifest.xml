@@ -3,7 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.brainstormideas.apptomar">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
+        android:name=".AppTomar"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -14,34 +17,34 @@
         android:theme="@style/Theme.AppTomar"
         tools:targetApi="31">
         <activity
-            android:name=".screens.SplashScreen"
+            android:name="com.brainstormideas.apptomar.ui.screens.SplashScreen"
             android:exported="false" />
         <activity
-            android:name=".screens.ResetPasswordScreen"
+            android:name="com.brainstormideas.apptomar.ui.screens.ResetPasswordScreen"
             android:exported="false" />
         <activity
-            android:name=".screens.ConfirmationScreen"
+            android:name="com.brainstormideas.apptomar.ui.screens.ConfirmationScreen"
             android:exported="false" />
         <activity
-            android:name=".screens.PaymentScreen"
+            android:name="com.brainstormideas.apptomar.ui.screens.PaymentScreen"
             android:exported="false" />
         <activity
-            android:name=".screens.StoreMapScreen"
+            android:name="com.brainstormideas.apptomar.ui.screens.StoreMapScreen"
             android:exported="false" />
         <activity
-            android:name=".screens.CategoriesScreen"
+            android:name="com.brainstormideas.apptomar.ui.screens.CategoriesScreen"
             android:exported="false" />
         <activity
-            android:name=".screens.ProfileScreen"
+            android:name="com.brainstormideas.apptomar.ui.screens.ProfileScreen"
             android:exported="false" />
         <activity
-            android:name=".screens.RegisterScreen"
+            android:name="com.brainstormideas.apptomar.ui.screens.RegisterScreen"
             android:exported="false" />
         <activity
-            android:name=".screens.LoginScreen"
+            android:name="com.brainstormideas.apptomar.ui.screens.MainActivity"
             android:exported="false" />
         <activity
-            android:name=".screens.MainActivity"
+            android:name="com.brainstormideas.apptomar.ui.screens.LoginScreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

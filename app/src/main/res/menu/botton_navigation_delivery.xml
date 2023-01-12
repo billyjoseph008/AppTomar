@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/teams_page"
+        android:enabled="true"
+        android:icon="@drawable/team_icon"
+        android:title="EQUIPOS" />
+    <item
+        android:id="@+id/take_order_page"
+        android:enabled="true"
+        android:icon="@drawable/delivery_man_request_icon"
+        android:title="ENTREGAS" />
+    <item
+        android:id="@+id/history_page"
+        android:enabled="true"
+        android:icon="@drawable/history_orders_icon"
+        android:title="HISTORIAL" />
+</menu>

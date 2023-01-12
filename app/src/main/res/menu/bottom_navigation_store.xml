@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inventory_page"
+        android:enabled="true"
+        android:icon="@drawable/inventory_icon"
+        android:title="INVENTARIO" />
+    <item
+        android:id="@+id/opened_orders_page"
+        android:enabled="true"
+        android:icon="@drawable/package_order_icon"
+        android:title="ORDENES" />
+    <item
+        android:id="@+id/orders_history_page"
+        android:enabled="true"
+        android:icon="@drawable/history_orders_icon"
+        android:title="HISTORIAL" />
+    <item
+        android:id="@+id/deliveryMan_request_page"
+        android:enabled="true"
+        android:icon="@drawable/delivery_man_request_icon"
+        android:title="SOLICITUDES" />
+</menu>

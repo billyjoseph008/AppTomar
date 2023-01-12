@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/favorite_page"
+        android:enabled="true"
+        android:icon="@drawable/favorite_stores_icon"
+        android:title="FAVORITOS" />
+    <item
+        android:id="@+id/new_order_page"
+        android:enabled="true"
+        android:icon="@drawable/glass_mug_icon"
+        android:title="ABRIR ORDEN" />
+    <item
+        android:id="@+id/historial_page"
+        android:enabled="true"
+        android:icon="@drawable/history_orders_icon"
+        android:title="HISTORIAL" />
+</menu>

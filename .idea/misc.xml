@@ -3,22 +3,49 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/drawable/login_background.xml" value="0.33" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/drawable/main_header_selector.xml" value="0.3665" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/drawable/splash_screen.xml" value="0.175" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/drawable/splashs_screen.xml" value="0.1405" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/drawable/white_triangle_login.xml" value="0.2785" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_categories_screen.xml" value="0.33" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_confirmation_screen.xml" value="0.17831813576494426" />
-        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_login_screen.xml" value="0.17831813576494426" />
-        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_login_screen.xml" value="0.33" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_menu_screen.xml" value="0.17831813576494426" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_payment_screen.xml" value="0.17831813576494426" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_profile_screen.xml" value="0.19202898550724637" />
-        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_register_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_register_screen.xml" value="0.25" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_reset_password_screen.xml" value="0.17831813576494426" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_resgister_screen.xml" value="0.17831813576494426" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_shopping_cart.xml" value="0.17831813576494426" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_shopping_cart_screen.xml" value="0.17831813576494426" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_splash_screen.xml" value="0.17831813576494426" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/activity_store_map_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_client_data_form.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_client_main_screen.xml" value="0.28396739130434784" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_client_orders_history.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_deliveries.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_delivery_main_screen.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_delivery_man_request.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_delivery_man_user_form.xml" value="0.33" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_delivery_orders_history.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_delivery_teams.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_favorites.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_inventory.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_new_order.xml" value="0.33" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_opened_orders.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_orders_history.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_store_main_screen.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_store_user_form.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_user_data_form.xml" value="0.2" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_user_information.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_user_type.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/layout/fragment_user_type_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/menu/bottom_navigation_client.xml" value="0.3212962962962963" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/menu/bottom_navigation_store.xml" value="0.3212962962962963" />
+        <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/menu/botton_navigation_delivery.xml" value="0.3212962962962963" />
         <entry key="..\:/Users/billy/StudioProjects/AppTomar/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1405" />
       </map>
     </option>
