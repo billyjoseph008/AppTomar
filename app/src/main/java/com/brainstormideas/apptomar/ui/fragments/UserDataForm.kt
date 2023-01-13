@@ -66,7 +66,7 @@ class UserDataForm : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         _binding = FragmentUserDataFormBinding.inflate(inflater, container, false)
         return binding.root
     }
@@ -234,7 +234,7 @@ class UserDataForm : Fragment() {
             correctionMessage += "\n * Debes agregar un numero de identificion/cedula \n"
         }
 
-        if (userCountry.isNullOrEmpty()) {
+        if (userCountry.isEmpty()) {
             correctionMessage += "\n * Debes elegir un pais \n"
         }
 
@@ -246,12 +246,12 @@ class UserDataForm : Fragment() {
             correctionMessage += "\n * Debes agregar una direccion \n"
         }
 
-        if (userBirthDay.isNullOrEmpty()) {
+        if (userBirthDay.isEmpty()) {
             correctionMessage += "\n * Debes seleccionar una fecha de nacimiento \n"
         }
 
-        if (userGender.isNullOrEmpty()) {
-            correctionMessage + "\n * Debes seleccionar un genero \n"
+        if (userGender.isEmpty()) {
+            correctionMessage += "\n * Debes seleccionar un genero \n"
         }
 
         return correctionMessage

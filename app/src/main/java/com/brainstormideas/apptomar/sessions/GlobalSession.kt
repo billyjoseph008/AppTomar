@@ -23,10 +23,10 @@ object GlobalSession {
     }
 
     var SharedPreferences.userId
-        get() = getString(GlobalSession.USER_ID, "")
+        get() = getString(USER_ID, "")
         set(value) {
             editMe {
-                it.putString(GlobalSession.USER_ID, value)
+                it.putString(USER_ID, value)
             }
         }
 }

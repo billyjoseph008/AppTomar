@@ -3,7 +3,7 @@ package com.brainstormideas.apptomar.data.models
 enum class Category {
     BEERS,
     CIGARS,
-    COCTAILS,
+    COCKTAILS,
     COMPLEMENTS,
     SODAS,
     LIQUEURS,
